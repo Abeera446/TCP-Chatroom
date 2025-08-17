@@ -1,7 +1,7 @@
 # TCP Chatroom
 
 A simple multithreaded TCP chatroom built with Java sockets.  
-Includes a server that handles multiple clients concurrently.
+Includes a server that handles multiple clients concurrently.  
 Includes both server and client inside one package, launched via `Main.java`.
 
 ## Features
@@ -19,9 +19,9 @@ Includes both server and client inside one package, launched via `Main.java`.
 4) When prompted, enter your name and start chatting. Enter 'quit' to leave.
 
 ## Example
-Server: Server started! Waiting for clients to connect...
-Server: Mark has joined the chat!
-Server: Felix has joined the chat!
-Felix: Hi.
-Mark: Hello.
+Server: Server started! Waiting for clients to connect...  
+Server: Mark has joined the chat!  
+Server: Felix has joined the chat!  
+Felix: Hi.  
+Mark: Hello.  
 Server: Mark has left the chat!
